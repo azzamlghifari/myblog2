@@ -1,0 +1,9 @@
+angka = int(input('Masukan Bilangan'))
+proses =angka //10
+angka =angka %10
+proses2 =angka //10
+angka =angka %10
+proses3 =angka //10
+angka =angka %10
+proses4 =angka //10
+angka =angka %10
